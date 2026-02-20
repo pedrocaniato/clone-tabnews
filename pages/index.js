@@ -1,8 +1,9 @@
 function Home () {
     return <h1>
-        Natanka, Natanka,
-        se seu cuzinho Pisca,
-        o meu pau balança.
+        Borroni, Borroni,
+        teu nome rima com Pepperoni,
+        se você não me amar
+        eu vou chorar no telefone 📞😔
     </h1>
 }
 
